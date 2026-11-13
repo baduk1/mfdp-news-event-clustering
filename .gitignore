@@ -1,0 +1,17 @@
+.DS_Store
+__pycache__/
+*.py[cod]
+.venv/
+venv/
+.env
+.env.*
+!.env.example
+/data/
+/models/
+/outputs/
+/artifacts/
+*.pkl
+*.joblib
+*.parquet
+*.tar.gz
+*.zip
